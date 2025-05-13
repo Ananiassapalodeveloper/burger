@@ -3,7 +3,7 @@ import BannerVideo from '../assets/BannerVideo.mp4'
 import icon_3 from '../assets/icon_3.jpeg'
 import icon_1 from '../assets/icon_1.jpeg'
 import icon_2 from '../assets/icon_2.jpeg'
-import BannerFood from '../assets/BannerFood.jpeg'
+import BannerFood from "'../assets/BannerFood.jpeg'"
 import fireIcon from '../assets/fireIcon.jpeg'
 import '../components/global.css'
 
