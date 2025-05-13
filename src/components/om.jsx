@@ -10,7 +10,7 @@ import burger1 from "../assets/burger1.jpeg";
 import burger2 from "../assets/burger2.jpeg";
 import batata1 from "../assets/batata1.png";
 import Cachorro_Quente1 from "../assets/Cachorro_Quente1.jpeg";
-import Cachorro_Quente2 from "../assets/Cachorro_Quente2.jpeg";
+import Cachorro_Quente2 from "../assets/Cachorro_quente2.jpeg";
 import molho1 from "../assets/molho1.jpeg";
 import molho2 from "../assets/molho2.jpeg";
 import bebida1 from "../assets/bebida1.png";
