@@ -1,4 +1,4 @@
-import bannerFood from "../assets/bannerFood.jpeg";
+import bannerFood from "../assets/BannerFood.jpeg";
 import icon_1 from "../assets/icon_1.jpeg";
 const Testimonial = () => {
   return (
