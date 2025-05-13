@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Banner from './components/Banner';
 import Reservation from './components/Reservation';
-import Om from './components/Om';
+import Om from './components/om';
 import Testimonial from './components/Testimonial';
 import Footer from './components/Footer';
 import Login from './components/login';
